@@ -1,6 +1,6 @@
 ## Typing Test
 
-<img src="Pagina.png" data-canonical-src="Pagina.png" width="200" height="400" />
+<img src="Pagina.png" width="600" height="600" />
 ![img](Pagina.png | width=100)
 
 #### TODO
