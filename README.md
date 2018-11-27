@@ -1,7 +1,8 @@
 ## Typing Test
 
+<p align="center">
 <img src="Pagina.png" width="600" height="600" />
-![img](Pagina.png | width=100)
+</p>
 
 #### TODO
 - [ ] Agregar perfiles de usuarios. 
