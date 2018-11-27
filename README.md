@@ -5,6 +5,7 @@
 </p>
 
 #### TODO
+- [ ] Reimplementarlo en Django.
 - [ ] Agregar perfiles de usuarios. 
 - [ ] Agregar estadísticas.
 - [ ] Agregar más redes sociales.
