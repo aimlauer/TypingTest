@@ -1,6 +1,6 @@
 ## Typing Test
 
-![img](Pagina.png =250x250)
+![img](Pagina.png)
 
 #### TODO
 - [ ] Agregar perfiles de usuarios. 
