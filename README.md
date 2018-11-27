@@ -1,7 +1,7 @@
 ## Typing Test
 
 <p align="center">
-<img src="Pagina.png" width="600" height="600" />
+<img src="Pagina.png" width="650" height="600" />
 </p>
 
 #### TODO
