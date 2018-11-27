@@ -1,4 +1,4 @@
-## Simple Typing Test
+## Typing Test
 
 ![alt text](Pagina.png)
 
