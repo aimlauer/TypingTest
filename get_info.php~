@@ -27,6 +27,7 @@ if(isset($_GET['code'])) {
 			'first_name'    => $user_info['displayName'],
 			// No estoy seguro de como funciona emails, una cuenta puede tener varios emails a a la vez??
 			'email'         => $user_info['emails'][0]['value'],
+			'gender'        => '',
 			'locale'        => $user_info['language'],
 			'picture'       => $user_info['image']['url'],
 			'link'          => $user_info['url']

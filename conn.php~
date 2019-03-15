@@ -2,7 +2,7 @@
 
 $dbHost     = "localhost";
 $dbUsername = "root";
-$dbPassword = "Rockdesdem21$#";
+$dbPassword = "rockdesdem21";
 $dbName     = "id5152188_tfast";
 $userTable    = "users";
 $infoTable = "info";
