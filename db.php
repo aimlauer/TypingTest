@@ -2,7 +2,7 @@
 class User {
 	private $dbHost     = "localhost";
 	private $dbUsername = "root";
-	private $dbPassword = "Rockdesdem21$#";
+	private $dbPassword = "tengoretraso#";
 	private $dbName     = "id5152188_tfast";
 	private $infoTable    = 'info';
 	private $userTbl = 'users';
